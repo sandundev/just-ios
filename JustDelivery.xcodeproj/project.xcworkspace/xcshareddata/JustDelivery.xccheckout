@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27CB5723-B4D6-4D5E-BCD6-A2F67002205F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JustDelivery</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC351E7F-D892-4CA9-A436-A67DAADE8906</key>
+		<string>https://github.com/sandundev/just-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JustDelivery.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC351E7F-D892-4CA9-A436-A67DAADE8906</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sandundev/just-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC351E7F-D892-4CA9-A436-A67DAADE8906</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC351E7F-D892-4CA9-A436-A67DAADE8906</string>
+			<key>IDESourceControlWCCName</key>
+			<string>just-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
